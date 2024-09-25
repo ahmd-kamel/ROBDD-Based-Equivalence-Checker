@@ -145,5 +145,5 @@ Clone the repository and install the required Python packages:
 git clone https://github.com/ahmd-kamel/ROBDD-Based-Equivalence-Checker.git
 cd ROBDD-Based-Equivalence-Checker
 pip install graphviz
-python3 equivalence_checker.py "A&B" "A^C"
+python3 equivalence_checker.py 'A&B' 'A^C'
 ```
